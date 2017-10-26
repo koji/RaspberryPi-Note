@@ -129,4 +129,5 @@ $ sudo ufw enable
 
 ```
 
-
+For Raspberry Pi Zero W
+https://wp.nyu.edu/koji/2017/10/05/how-to-setup-raspberry-pi-zero-w/
