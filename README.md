@@ -27,7 +27,7 @@ $ diskUtil list
 diskutil unmountDisk /dev/<disk name>
 
 For example,
-diskutil unmountDisk /dev/disk_2
+diskutil unmountDisk /dev/disk2
 
 3. Burn image on your microSD(This step takes a few minutes)
 sudo dd bs=1 if=<image name> of=/dev/<disk name>
