@@ -22,18 +22,29 @@ $ diskUtil list
                                  Logical Volume on disk0s2
                                  5EF6BAB4-089E-4FBA-9F9D-EF7C5D37AB66
                                  Unencrypted
-                                 
+
+/dev/disk2 (disk image):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     Apple_partition_scheme                        +182.7 MB   disk2
+   1:        Apple_partition_map                         32.3 KB    disk2s1
+   2:                  Apple_HFS Google Chrome           182.6 MB   disk2s2
+
+/dev/disk3 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *15.9 GB    disk3
+   1:                 DOS_FAT_32 -                       15.9 GB    disk3s1
+   
 2. Unmount disk
 diskutil unmountDisk /dev/<disk name>
 
 For example,
-diskutil unmountDisk /dev/disk2
+diskutil unmountDisk /dev/disk3
 
 3. Burn image on your microSD(This step takes a few minutes)
 sudo dd bs=1 if=<image name> of=/dev/<disk name>
 
 For example,
-sudo dd bs=1 if=2016-09-23-raspbian-jessie-lite.img of=/dev/disk2
+sudo dd bs=1 if=2016-09-23-raspbian-jessie-lite.img of=/dev/disk3
 ```
 
 ## Update / Upgrage
