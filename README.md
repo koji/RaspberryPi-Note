@@ -69,6 +69,7 @@ Reboot
 Enable ssh
 Reboot
 ```
+![](https://github.com/orz-orz-orz-orz-orz/pi-setup/blob/master/raspi-config.png)
 
 Settings for security
 add a new user
