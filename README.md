@@ -82,13 +82,34 @@ Reboot
 ```
 ![](https://github.com/orz-orz-orz-orz-orz/pi-setup/blob/master/raspi-config.png)
 
+## Install nodejs with NVM
+Why you need to use nvm instead of apt-get install nodejs is for flexibility. Sometimes, you need older version.
+NVM allows you to install multiple versions of nodejs.
+
+```shell
+$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash
+$ source ~/.bashrc
+$ nvm -v
+You can see some options. If you can't see options, reboot Terminal.
+Then check versions you can use with the following command
+$ nvm ls-remote
+
+Install versions you want to use
+$ nvm install v6.11.4
+$ nvm alias default node
+
+Check the version of nodejs
+$ node -v
+
+```
+
+## Make your pi secure
+
 Settings for security
 add a new user
 ```shell
 $ sudo adduser ngems-koji
 ```
-
-## Make your pi secure
 
 add a new user to sudo group
 ```shell
