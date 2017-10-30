@@ -1,5 +1,7 @@
 This will be update in a week!
 
+![](https://github.com/orz-orz-orz-orz-orz/pi-setup/blob/master/gpio.png)
+
 ### Install RPi.GPIO
 https://pypi.python.org/pypi/RPi.GPIO
 
