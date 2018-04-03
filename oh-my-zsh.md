@@ -32,3 +32,21 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 ```
+
+# change theme
+This is not necessary, but I like the theme, ys.
+```zsh
+
+$ vim .zshrc
+
+before
+ZSH_THEME="robbyrussell"
+[looks like]
+➜  ~ vim .zshrc
+
+after
+ZSH_THEME="robbyrussell"
+[looks like]
+username @ pi in ~ [4:43:19]
+
+```
