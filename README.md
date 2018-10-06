@@ -108,12 +108,12 @@ $ node -v
 Settings for security
 add a new user
 ```shell
-$ sudo adduser ngems-koji
+$ sudo adduser pikoji
 ```
 
 add a new user to sudo group
 ```shell
-$ sudo adduser ngems-koji sudo
+$ sudo adduser pikoji sudo
 
 lock the root
 $ sudo passwd -l root
