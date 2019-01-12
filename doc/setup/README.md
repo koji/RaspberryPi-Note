@@ -80,7 +80,7 @@ Reboot
 Enable ssh
 Reboot
 ```
-![](https://github.com/orz-orz-orz-orz-orz/pi-setup/blob/master/raspi-config.png)
+![](https://github.com/orz-orz-orz-orz-orz/pi-setup/blob/master/doc/images/raspi-config.png)
 
 ## Install nodejs with NVM
 Why you need to use nvm instead of apt-get install nodejs is for flexibility. Sometimes, you need older version.
