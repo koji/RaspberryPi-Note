@@ -45,7 +45,7 @@ ZSH_THEME="robbyrussell"
 ➜  ~ vim .zshrc
 
 after
-ZSH_THEME="robbyrussell"
+ZSH_THEME="ys"
 [looks like]
 username @ pi in ~ [4:43:19]
 
