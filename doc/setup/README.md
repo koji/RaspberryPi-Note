@@ -52,6 +52,7 @@ Open Terminal
 ```shell
 sudo apt/apt-get update
 sudo apt/apt-get upgrade
+sudo apt/apt-get dist-upgrade
 ```
 
 ## Change some settings
