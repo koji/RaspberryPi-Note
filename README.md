@@ -9,10 +9,26 @@ https://github.com/koji/raspi/issues
 
 ## Docs
 
+### Settings
+
 1. [setup guide](https://github.com/koji/RaspberyPi-Note/blob/master/doc/setup/README.md) This focuses on inital setup.
 2. [create a swapfile](https://github.com/koji/RaspberyPi-Note/blob/master/doc/setup/swapfile.md)
 Basically, this is for installing a heavy program like OpenCV.  
 3. [set crontab](https://github.com/koji/RaspberyPi-Note/blob/master/doc/setup/crontab_settings.md) The sample is how to take a photo with webcam every 8 am.
-4. [install vnc_viewer](https://github.com/koji/RaspberyPi-Note/blob/master/doc/setup/vnc_viewer.md) This is useful when we don't have a monitor for pi and want to use GUI.
 
+
+
+### Software
+1. [install vnc_viewer](https://github.com/koji/RaspberyPi-Note/blob/master/doc/setup/vnc_viewer.md) This is useful when we don't have a monitor for pi and want to use GUI.
+2. [install opencv](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_opencv.md)
+3. [install oh-my-zsh](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_oh-my-zsh.md)
+4. [install librealsense](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_librealsense.md)
+5. [python3.6](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_python3.6.md)
+6. [install berryconda](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_berryconda.md)
+7. []()
+8. []()
+9. []()
+10. []()
+
+## Code sample
 
