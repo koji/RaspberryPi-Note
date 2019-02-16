@@ -52,3 +52,15 @@ $ sudo apt-get install fswebcam
 $ echo '* 8 * * * your_shellscript_path' > cron.conf
 $ crontab cron.conf
 ```
+
+### cron comands
+```zsh
+list current cron jobs
+$ crontab -l 
+
+remove jobs
+$ crontab -r
+
+edit jsobs (not recommended)
+$ crontab -e
+```
