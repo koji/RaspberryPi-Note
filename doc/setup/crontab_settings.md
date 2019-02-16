@@ -20,6 +20,8 @@ $ sudo apt-get install gnome-schedule
 # └───────────────────────── min (0 - 59)
 ```
 
+https://crontab.guru/ is very useful to generate schedule script.  
+
 ### Create a shellscript
 ```
 $ mkdir TakePhotos
