@@ -27,6 +27,8 @@ $ cd TakePhotos
 $ vim runCamera.sh
 ```
 
+`file path must be absolute path`
+
 runCamera.sh
 ```bash
 #!/bin/bash
