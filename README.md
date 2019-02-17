@@ -26,9 +26,14 @@ Basically, this is for installing a heavy program like OpenCV.
 5. [python3.6](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_python3.6.md)
 6. [install berryconda](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_berryconda.md)
 7. [install openFrameworks](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_openFrameworks.md)
-8. []()
+8. [install Docker WIP](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_%20docker.md)
 9. []()
 10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+15. []()
 
 ## Code sample
 1. [analog input/output](https://github.com/koji/RaspberyPi-Note/tree/master/sample/analog)
