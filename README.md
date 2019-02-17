@@ -25,7 +25,7 @@ Basically, this is for installing a heavy program like OpenCV.
 4. [install librealsense](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_librealsense.md)
 5. [python3.6](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_python3.6.md)
 6. [install berryconda](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_berryconda.md)
-7. [install openFrameworks wip]()
+7. [install openFrameworks](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_openFrameworks.md)
 8. []()
 9. []()
 10. []()
