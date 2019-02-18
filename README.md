@@ -45,3 +45,9 @@ Basically, this is for installing a heavy program like OpenCV.
 4. []()
 5. []()
 6. []()
+
+
+## Machine Learning
+1. [setup ml env](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_machine_learning.md)
+2. [darkflow WIP]()
+3. [install berryconda](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_berryconda.md)
