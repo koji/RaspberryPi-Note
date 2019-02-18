@@ -10,7 +10,7 @@ https://github.com/koji/raspi/issues
 ## Docs
 
 ### Basic commands
-[21 Basic Commands You Have to Know](https://github.com/koji/RaspberyPi-Note/blob/master/commands.md)
+[22 Basic Commands You Have to Know](https://github.com/koji/RaspberyPi-Note/blob/master/commands.md)
 
 ### Settings
 
