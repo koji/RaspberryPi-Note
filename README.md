@@ -9,6 +9,9 @@ https://github.com/koji/raspi/issues
 
 ## Docs
 
+### Basic commands
+[21 Basic Commands You Have to Know](https://github.com/koji/RaspberyPi-Note/blob/master/commands.md)
+
 ### Settings
 
 1. [setup guide](https://github.com/koji/RaspberyPi-Note/blob/master/doc/setup/README.md) This focuses on inital setup.
