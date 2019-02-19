@@ -42,7 +42,7 @@ Basically, this is for installing a heavy program like OpenCV.
 1. [analog input/output](https://github.com/koji/RaspberyPi-Note/tree/master/sample/analog)
 2. [bluetooth wip](https://github.com/koji/RaspberyPi-Note/tree/master/sample/ios_bluetooth)
 3. [led blink](https://github.com/koji/RaspberyPi-Note/tree/master/sample/led_blink)
-4. []()
+4. [slack bot with webcam WIP]()
 5. []()
 6. []()
 
