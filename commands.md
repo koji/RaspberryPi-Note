@@ -1,9 +1,11 @@
-# 22 Basic Commands
+# 23 Basic Commands
 
 ```
 $ sudo apt-get update # Update Package Lists
 
 $ sudo apt-get upgrade # Download and Install Updated Packages
+
+$ sudo rpi-update # Update firmware
 
 $ sudo apt-get clean # Clean Old Package Files
 
