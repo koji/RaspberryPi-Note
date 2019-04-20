@@ -32,7 +32,7 @@ Basically, this is for installing a heavy program like OpenCV.
 8. [install Docker WIP](https://github.com/koji/RaspberyPi-Note/blob/master/doc/software_installation/install_%20docker.md)
 9. [install alexa WIP]()
 10. [install google home]()
-11. []()
+11. [install visual studio code(oss version)]()
 12. []()
 13. []()
 14. []()
