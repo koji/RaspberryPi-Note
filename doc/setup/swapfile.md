@@ -12,3 +12,5 @@ $ free -m
 Mem:            875          65         378          11         431         747
 Swap:          1023           0        1023
 ```
+
+If you don't have `vim`, you can use `vi` or `nano`. (They are pre-installed editors).
