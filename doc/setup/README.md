@@ -121,13 +121,15 @@ $ sudo passwd -l root
 
 del pi user
 $ sudo deluser --remove-home pi
-
+en
 Looking for files to backup/remove ...
 Removing user `pi' ...
 Warning: group `pi' has no more members.
 userdel: user pi is currently used by process 622
 /usr/sbin/deluser: `/usr/sbin/userdel pi' returned error code 8. Exiting.
 ```
+
+If you get above error, you will need to change default login account from `pi` to `new_user` then try to delete `pi` again.
 
 Change hostname
 ```shell
