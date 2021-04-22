@@ -163,6 +163,9 @@ $ sudo ufw logging low
 enable ufw
 $ sudo ufw enable
 
+# If you want to use VNC server to access from mac/windows, you will need to add the following to the rule
+$ sudo ufw allow 5900
+
 ```
 
 For Raspberry Pi Zero W
